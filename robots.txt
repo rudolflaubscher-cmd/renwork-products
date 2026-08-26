@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+Sitemap: https://rudolflaubscher-cmd.github.io/renwork-products/sitemap.xml
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: CCBot
+Allow: /
